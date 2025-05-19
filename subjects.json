@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Mathematics",
+    "Description": "Study of numbers, shapes, and patterns.",
+    "NumberOfWeeklyClasses": 5,
+    "LiteratureUsed": [ "Mathematics for High School", "Advanced Algebra" ]
+  },
+  {
+    "Name": "Physics",
+    "Description": "Study of matter, motion, and energy.",
+    "NumberOfWeeklyClasses": 3,
+    "LiteratureUsed": [ "Fundamentals of Physics", "Quantum Mechanics 101" ]
+  }
+]

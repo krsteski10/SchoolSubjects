@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Mathematics",
+    "Description": "Study of numbers, shapes, and patterns.",
+    "NumberOfWeeklyClasses": 5,
+    "LiteratureUsed": [
+      { "title": "Algebra Basics" },
+      { "title": "Geometry for Beginners" }
+    ]
+  },
+  {
+    "Name": "Physics",
+    "Description": "Study of matter, motion, and energy.",
+    "NumberOfWeeklyClasses": 3,
+    "LiteratureUsed": [
+      { "title": "Fundamentals of Physics" },
+      { "title": "Quantum Mechanics 101" }
+    ]
+  }
+]
